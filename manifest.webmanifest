@@ -1,0 +1,10 @@
+{
+  "name": "Petite Étoile",
+  "short_name": "Petite Étoile",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101d35",
+  "theme_color": "#101d35",
+  "lang": "ja"
+}
